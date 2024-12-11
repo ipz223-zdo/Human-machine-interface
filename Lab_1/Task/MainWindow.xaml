@@ -20,7 +20,7 @@
                 <MenuItem Header="Cut" Click="Cut_Click"/>
             </MenuItem>
             <MenuItem Header="Format">
-                <MenuItem Header="Text Color" Click="TextColor_Click"/>
+                <MenuItem Header="Red" Click="TextColor_Click"/>
                 <MenuItem Header="Clear Formatting" Click="ClearFormatting_Click"/>
             </MenuItem>
             <MenuItem Header="Help">
